@@ -1,0 +1,1 @@
+let thisClass = "It's Fun to learn new things";
